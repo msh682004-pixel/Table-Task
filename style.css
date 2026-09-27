@@ -46,7 +46,6 @@ font-size: 14px;
 }
 
 
-  /*attribute selector*/input[type="checkbox"]{
  input[type="checkbox"]{
 
     accent-color: #434141;
